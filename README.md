@@ -6,17 +6,8 @@
 </div>
 
 <div id="social" align="center>
-    <a href="https://helix-backend.netlify.app/" target="_blank" rel="noopener noreferrer"
-       aria-label="Перейти на helix.dev" class="site-badge">
-      <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
-        <rect x="2" y="2" width="44" height="44" rx="12" fill="#0b1220" stroke="#229ED9" stroke-width="1.6"/>
-        <!-- буква H -->
-        <path fill="none" stroke="#229ED9" stroke-width="2.4" stroke-linecap="round"
-          d="M18 15v18M30 15v18M18 24h12"/>
-        <!-- стрелка наружу -->
-        <path fill="none" stroke="#6DB33F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-          d="M33 15h5v5M38 15l-7 7"/>
-      </svg>
+    <a href="">
+        <img src="" alt="Телеграм"/>
     </a>
     <a href="https://t.me/helix1982" target="_blank" rel="noopener noreferrer" aria-label="Telegram">
       <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="#229ED9">
