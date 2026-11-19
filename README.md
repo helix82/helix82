@@ -7,7 +7,7 @@
 
 <div id="social" align="center>
     <a href="https://helix-backend.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/сайт-helix.dev-229ED9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Сайт helix.dev">
+      <img src="https://img.shields.io/badge/helix.dev-0b1220?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="helix.dev" height="40">
     </a>
     <a href="https://t.me/ваш_никнейм" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-написать-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
