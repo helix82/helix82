@@ -1,12 +1,12 @@
-## Привет!!! 👋
-
+<!-- ## Привет!!! 👋 -->
+ 
 <div id="header" align="center">
     <h1>Привет, я Ирина</h1>
     <h3>Backend-разработчик Java</h3>
 </div>
 
-<div id="social" align="center>
-    <a href="https://helix-backend.netlify.app/" target="_blank" rel="noopener noreferrer">
+<div id="social" align="center">
+    <a href="https://helix-backend.netlify.app" target="_blank" rel="noopener noreferrer">
       <img src="assets/helix_badge.svg" alt="helix.dev — Spring Boot разработчик" width="48" height="48">
     </a>
     &nbsp;
