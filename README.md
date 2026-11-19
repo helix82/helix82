@@ -6,14 +6,12 @@
 </div>
 
 <div id="social" align="center>
-    <a href="https://helix-backend.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/helix.dev-0b1220?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="helix.dev" height="40">
-    </a>
     <a href="https://helix-backend.netlify.app/" target="_blank" rel="noopener noreferrer">
-      <img src="assets/helix-badge.svg" alt="helix.dev — Spring Boot разработчик" width="48" height="48">
+      <img src="assets/helix_badge.svg" alt="helix.dev — Spring Boot разработчик" width="48" height="48">
     </a>
-    <a href="https://t.me/ваш_никнейм" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-написать-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    &nbsp;
+    <a href="https://t.me/helix1982" target="_blank">
+      <img src="assets/telegram_badge.svg" alt="Telegram">
     </a>
 </div>
 
