@@ -9,7 +9,6 @@
     <a href="https://helix-backend.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/helix.dev-0b1220?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="helix.dev" height="40">
     </a>
-    [![helix.dev](https://img.shields.io/badge/helix.dev-Spring%20Boot%20бэкенд-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://helix-backend.netlify.app/)
     <a href="https://t.me/ваш_никнейм" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-написать-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
     </a>
