@@ -4,8 +4,10 @@
     <h1>Привет, я Ирина</h1>
     <h3>Backend-разработчик Java</h3>
 </div>
+<div>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=helix82&theme=aura)
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?helix82=vn7n24fzkq&theme=github_dark)
 
 <div id="social" align="center">
     <a href="https://helix-backend.netlify.app" target="_blank" rel="noopener noreferrer">
